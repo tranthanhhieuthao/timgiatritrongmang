@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../Luyentapvonglap02/Bai5.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Luyentapvonglap02/Bai6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Luyentapvonglap02/Bài1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timgiatrilonnhattrongmang/giatrilonnhatmang.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/Tìm giá trị trong mảng.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -22,6 +23,8 @@
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/Đảo ngược các phần tử trong mảng.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapcodegym" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapcodegym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitaptientengay3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptientengay3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.html" afterDir="false" />
@@ -41,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tìm giá trị trong mảng.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="357">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -57,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,6 +99,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -121,23 +125,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556870179912</updated>
-      <workItem from="1556870181004" duration="1320000" />
+      <workItem from="1556870181004" duration="3576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1320000" />
+    <option name="totallyTimeSpent" value="3576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="20" width="1408" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981631" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32889965" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -157,8 +161,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tìm giá trị trong mảng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="357">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
